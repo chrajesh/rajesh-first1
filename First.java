@@ -1,6 +1,6 @@
 class First
 {
-		public static void main (String args[])
+		public static void main (String ar[])
 		{
 			for(i=0;i<=a.length-1;i++){
 			int a=a[i];
